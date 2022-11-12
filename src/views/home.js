@@ -221,8 +221,21 @@ closeButton.addEventListener("click", function() {
             </div>
           </div>
         </div>
-        <div className="home-banner-advanced-analytics">
-          <div className="home-centered-container">
+        <div className="home-banner">
+          <div className="home-container5">
+            <div className="home-left2">
+              <span className="home-text030">Improve Scheduling</span>
+              <h2 className="home-text031 title">
+                Powerful scheduler that saves you time
+              </h2>
+              <span className="home-text032">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                eiusmod tempor incididunt ut labore et dolore magna aliqua. vv
+              </span>
+              <div className="home-get-started2 template-button">
+                <span className="home-text033">Get started</span>
+              </div>
+            </div>
             <div className="home-image-container1">
               <img
                 alt="pastedImage"
@@ -230,72 +243,17 @@ closeButton.addEventListener("click", function() {
                 className="home-cards-image1"
               />
             </div>
-            <div className="home-right1">
-              <span className="sub-title">
-                Reporting Metrics
-                <span
-                  dangerouslySetInnerHTML={{
-                    __html: ' ',
-                  }}
-                />
-              </span>
-              <h2 className="home-text031 title">
-                Advanced analytics, easy to understand.
-              </h2>
-              <div className="home-category">
-                <span className="home-text032">Power reports</span>
-                <span className="home-text033">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  vv
-                </span>
-                <span className="home-text034">Example -&gt;</span>
-              </div>
-              <div className="home-category1">
-                <span className="home-text035">Power reports</span>
-                <span className="home-text036">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  vv
-                </span>
-                <span className="home-text037">Example -&gt;</span>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div className="home-banner">
-          <div className="home-container5">
-            <div className="home-left2">
-              <span className="home-text038">Improve Scheduling</span>
-              <h2 className="home-text039 title">
-                Powerful scheduler that saves you time
-              </h2>
-              <span className="home-text040">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. vv
-              </span>
-              <div className="home-get-started2 template-button">
-                <span className="home-text041">Get started</span>
-              </div>
-            </div>
-            <div className="home-image-container2">
-              <img
-                alt="pastedImage"
-                src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
-                className="home-cards-image2"
-              />
-            </div>
           </div>
         </div>
       </section>
       <section className="home-integrations">
-        <div className="home-centered-container1">
+        <div className="home-centered-container">
           <div className="home-heading">
             <span className="sub-title">Integrations</span>
             <span className="title">
               Integrated with the tools you know and love
             </span>
-            <span className="home-text044">
+            <span className="home-text036">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua. vv
             </span>
@@ -319,16 +277,16 @@ closeButton.addEventListener("click", function() {
         </div>
       </section>
       <section className="home-how-it-works">
-        <div className="home-centered-container2">
+        <div className="home-centered-container1">
           <div className="home-heading1">
-            <span className="home-text045">How it works</span>
-            <span className="home-text046 title">
+            <span className="home-text037">How it works</span>
+            <span className="home-text038 title">
               Being social and getting leads has never been easier
             </span>
           </div>
-          <div className="home-category2">
+          <div className="home-category">
             <div className="home-headng">
-              <span className="home-text047">
+              <span className="home-text039">
                 1 — Sign up
                 <span
                   dangerouslySetInnerHTML={{
@@ -336,12 +294,12 @@ closeButton.addEventListener("click", function() {
                   }}
                 />
               </span>
-              <span className="home-text048">
+              <span className="home-text040">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua. vv
               </span>
               <div className="home-get-started3 template-button">
-                <span className="home-text049">Get started</span>
+                <span className="home-text041">Get started</span>
               </div>
             </div>
             <div className="home-container8">
@@ -353,10 +311,10 @@ closeButton.addEventListener("click", function() {
             </div>
           </div>
           <div className="home-row">
-            <div className="home-category3">
+            <div className="home-category1">
               <div className="home-headng1">
-                <span className="home-text050">2 — Act</span>
-                <span className="home-text051">
+                <span className="home-text042">2 — Act</span>
+                <span className="home-text043">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                   vv
@@ -368,10 +326,10 @@ closeButton.addEventListener("click", function() {
                 className="home-pasted-image1"
               />
             </div>
-            <div className="home-category4">
+            <div className="home-category2">
               <div className="home-headng2">
-                <span className="home-text052">2 — Act</span>
-                <span className="home-text053">
+                <span className="home-text044">2 — Act</span>
+                <span className="home-text045">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                   vv
@@ -387,31 +345,31 @@ closeButton.addEventListener("click", function() {
         </div>
       </section>
       <section className="home-pricing">
-        <div className="home-centered-container3">
+        <div className="home-centered-container2">
           <div className="home-heading2">
-            <span className="home-text054 title">
+            <span className="home-text046 title">
               Pricing for all kind of businesses
             </span>
-            <span className="home-text055">
+            <span className="home-text047">
               Create next-generation solutions for small business customers with
               pricing options that accommodate everyone.
             </span>
             <div className="home-selection">
-              <span className="home-text056">Monthly</span>
-              <span className="home-text057">Yearly</span>
+              <span className="home-text048">Monthly</span>
+              <span className="home-text049">Yearly</span>
             </div>
           </div>
           <div className="home-cards1">
             <div className="home-card">
-              <span className="home-text058">Free</span>
-              <span className="home-text059">
+              <span className="home-text050">Free</span>
+              <span className="home-text051">
                 Unlimited lorem ipsum dolor sit amet, consectetur adipiscing
                 elit, sed doliqua.
               </span>
               <div className="home-get-started4 template-button">
-                <span className="home-text060">Start for free</span>
+                <span className="home-text052">Start for free</span>
               </div>
-              <span className="home-text061">What&apos;s included</span>
+              <span className="home-text053">What&apos;s included</span>
               <div className="home-bullet-points">
                 <div className="home-point">
                   <svg
@@ -420,7 +378,7 @@ closeButton.addEventListener("click", function() {
                   >
                     <path d="M877.714 512c0 242.286-196.571 438.857-438.857 438.857s-438.857-196.571-438.857-438.857 196.571-438.857 438.857-438.857 438.857 196.571 438.857 438.857z"></path>
                   </svg>
-                  <span className="home-text062">
+                  <span className="home-text054">
                     Sed ut pespiciatis unde omnis
                   </span>
                 </div>
@@ -431,26 +389,26 @@ closeButton.addEventListener("click", function() {
                   >
                     <path d="M877.714 512c0 242.286-196.571 438.857-438.857 438.857s-438.857-196.571-438.857-438.857 196.571-438.857 438.857-438.857 438.857 196.571 438.857 438.857z"></path>
                   </svg>
-                  <span className="home-text063">
+                  <span className="home-text055">
                     Sed ut pespiciatis unde omnis
                   </span>
                 </div>
               </div>
             </div>
             <div className="home-card1">
-              <span className="home-text064">Pay as you go</span>
-              <span className="home-text065">
+              <span className="home-text056">Pay as you go</span>
+              <span className="home-text057">
                 <span>Launch your lorem for $49/mo</span>
                 <br></br>
                 <span>lorem ipsum dolor sit amet, consectetur adipiscing.</span>
               </span>
               <div className="home-get-started5 template-button">
-                <span className="home-text069">
+                <span className="home-text061">
                   <span>Upgrade now</span>
                   <br></br>
                 </span>
               </div>
-              <span className="home-text072">What&apos;s included</span>
+              <span className="home-text064">What&apos;s included</span>
               <div className="home-bullet-points1">
                 <div className="home-point02">
                   <svg
@@ -459,7 +417,7 @@ closeButton.addEventListener("click", function() {
                   >
                     <path d="M877.714 512c0 242.286-196.571 438.857-438.857 438.857s-438.857-196.571-438.857-438.857 196.571-438.857 438.857-438.857 438.857 196.571 438.857 438.857z"></path>
                   </svg>
-                  <span className="home-text073">
+                  <span className="home-text065">
                     Sed ut pespiciatis unde omnis
                   </span>
                 </div>
@@ -470,7 +428,7 @@ closeButton.addEventListener("click", function() {
                   >
                     <path d="M877.714 512c0 242.286-196.571 438.857-438.857 438.857s-438.857-196.571-438.857-438.857 196.571-438.857 438.857-438.857 438.857 196.571 438.857 438.857z"></path>
                   </svg>
-                  <span className="home-text074">
+                  <span className="home-text066">
                     Sed ut pespiciatis unde omnis
                   </span>
                 </div>
@@ -481,7 +439,7 @@ closeButton.addEventListener("click", function() {
                   >
                     <path d="M877.714 512c0 242.286-196.571 438.857-438.857 438.857s-438.857-196.571-438.857-438.857 196.571-438.857 438.857-438.857 438.857 196.571 438.857 438.857z"></path>
                   </svg>
-                  <span className="home-text075">
+                  <span className="home-text067">
                     Sed ut pespiciatis unde omnis
                   </span>
                 </div>
@@ -492,15 +450,15 @@ closeButton.addEventListener("click", function() {
                   >
                     <path d="M877.714 512c0 242.286-196.571 438.857-438.857 438.857s-438.857-196.571-438.857-438.857 196.571-438.857 438.857-438.857 438.857 196.571 438.857 438.857z"></path>
                   </svg>
-                  <span className="home-text076">
+                  <span className="home-text068">
                     Sed ut pespiciatis unde omnis
                   </span>
                 </div>
               </div>
             </div>
             <div className="home-card2">
-              <span className="home-text077">Enterprise</span>
-              <span className="home-text078">
+              <span className="home-text069">Enterprise</span>
+              <span className="home-text070">
                 <span>
                   Custom-built lorem ipsum dolor sit amet, consectetur
                   adipiscing elit, sed doliqua.
@@ -508,12 +466,12 @@ closeButton.addEventListener("click", function() {
                 <br></br>
               </span>
               <div className="home-get-started6 template-button">
-                <span className="home-text081">
+                <span className="home-text073">
                   <span>Contact us</span>
                   <br></br>
                 </span>
               </div>
-              <span className="home-text084">What&apos;s included</span>
+              <span className="home-text076">What&apos;s included</span>
               <div className="home-bullet-points2">
                 <div className="home-point06">
                   <svg
@@ -522,7 +480,7 @@ closeButton.addEventListener("click", function() {
                   >
                     <path d="M877.714 512c0 242.286-196.571 438.857-438.857 438.857s-438.857-196.571-438.857-438.857 196.571-438.857 438.857-438.857 438.857 196.571 438.857 438.857z"></path>
                   </svg>
-                  <span className="home-text085">
+                  <span className="home-text077">
                     Sed ut pespiciatis unde omnis
                   </span>
                 </div>
@@ -533,7 +491,7 @@ closeButton.addEventListener("click", function() {
                   >
                     <path d="M877.714 512c0 242.286-196.571 438.857-438.857 438.857s-438.857-196.571-438.857-438.857 196.571-438.857 438.857-438.857 438.857 196.571 438.857 438.857z"></path>
                   </svg>
-                  <span className="home-text086">
+                  <span className="home-text078">
                     Sed ut pespiciatis unde omnis
                   </span>
                 </div>
@@ -544,7 +502,7 @@ closeButton.addEventListener("click", function() {
                   >
                     <path d="M877.714 512c0 242.286-196.571 438.857-438.857 438.857s-438.857-196.571-438.857-438.857 196.571-438.857 438.857-438.857 438.857 196.571 438.857 438.857z"></path>
                   </svg>
-                  <span className="home-text087">
+                  <span className="home-text079">
                     Sed ut pespiciatis unde omnis
                   </span>
                 </div>
@@ -555,7 +513,7 @@ closeButton.addEventListener("click", function() {
                   >
                     <path d="M877.714 512c0 242.286-196.571 438.857-438.857 438.857s-438.857-196.571-438.857-438.857 196.571-438.857 438.857-438.857 438.857 196.571 438.857 438.857z"></path>
                   </svg>
-                  <span className="home-text088">
+                  <span className="home-text080">
                     Sed ut pespiciatis unde omnis
                   </span>
                 </div>
@@ -566,12 +524,12 @@ closeButton.addEventListener("click", function() {
       </section>
       <section className="home-testimonals">
         <div className="home-left3">
-          <span className="home-text089">Testimonals</span>
-          <span className="home-text090 title">
+          <span className="home-text081">Testimonals</span>
+          <span className="home-text082 title">
             What people say about Active
           </span>
         </div>
-        <div className="home-right2">
+        <div className="home-right1">
           <div className="home-column">
             <Testimonal
               Quote='"Pellentesque sodales libero nulla, ac imperdiet ante tincidunt vel. Fusce auctor augue sed massa finibus, et dictum sem mollis. In luctus.”'
@@ -623,7 +581,7 @@ closeButton.addEventListener("click", function() {
             ></Testimonal>
           </div>
         </div>
-        <span className="home-text091">
+        <span className="home-text083">
           <span>Show more</span>
           <br></br>
         </span>
@@ -631,16 +589,16 @@ closeButton.addEventListener("click", function() {
       <section className="home-action-bar">
         <div className="home-action">
           <div className="home-heading3">
-            <span className="home-text094 title">
+            <span className="home-text086 title">
               <span>Get leads now </span>
               <br></br>
               <span>with Active!</span>
             </span>
-            <span className="home-text098">
+            <span className="home-text090">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
             </span>
             <div className="home-get-started7 template-button">
-              <span className="home-text099">
+              <span className="home-text091">
                 <span>Start free</span>
                 <br></br>
               </span>
@@ -657,8 +615,8 @@ closeButton.addEventListener("click", function() {
       </section>
       <section className="home-f-a-q">
         <div className="home-heading4">
-          <span className="home-text102 title">Frequently asked questions</span>
-          <span className="home-text103">
+          <span className="home-text094 title">Frequently asked questions</span>
+          <span className="home-text095">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. vv
           </span>
@@ -666,7 +624,7 @@ closeButton.addEventListener("click", function() {
         <div className="home-accordion">
           <div data-faq="closed" className="accordionContainer">
             <div className="home-header1">
-              <span className="home-text104">
+              <span className="home-text096">
                 — What is sit amet, consectetur adipiscing elit, sed do?
                 <span
                   dangerouslySetInnerHTML={{
@@ -679,7 +637,7 @@ closeButton.addEventListener("click", function() {
               </svg>
             </div>
             <div className="accordionContent">
-              <span className="home-text105">
+              <span className="home-text097">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 Excepteur sint occaecat cupidatat non proident, sunt in culpa
@@ -694,7 +652,7 @@ closeButton.addEventListener("click", function() {
           </div>
           <div className="accordionContainer">
             <div className="home-header2">
-              <span className="home-text106">
+              <span className="home-text098">
                 — Why is dolore magna aliqua excepteur sint
               </span>
               <svg viewBox="0 0 1024 1024" className="accordionIcon">
@@ -702,7 +660,7 @@ closeButton.addEventListener("click", function() {
               </svg>
             </div>
             <div className="accordionContent">
-              <span className="home-text107">
+              <span className="home-text099">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 Excepteur sint occaecat cupidatat non proident, sunt in culpa
@@ -717,7 +675,7 @@ closeButton.addEventListener("click", function() {
           </div>
           <div data-faq="closed" className="accordionContainer">
             <div className="home-header3">
-              <span className="home-text108">
+              <span className="home-text100">
                 — Is excepteur sint occaecat cupidatat non proident, sunt in
                 culpa qui officia deserunt mollit anim id est laborum?
                 <span
@@ -731,7 +689,7 @@ closeButton.addEventListener("click", function() {
               </svg>
             </div>
             <div className="accordionContent">
-              <span className="home-text109">
+              <span className="home-text101">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 Excepteur sint occaecat cupidatat non proident, sunt in culpa
@@ -746,7 +704,7 @@ closeButton.addEventListener("click", function() {
           </div>
           <div data-faq="closed" className="accordionContainer">
             <div className="home-header4">
-              <span className="home-text110">
+              <span className="home-text102">
                 — Who quasi architecto beatae vitae dicta sunt explicabo. Nemo
                 enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
                 fugit, sed quia consequuntur magni
@@ -761,7 +719,7 @@ closeButton.addEventListener("click", function() {
               </svg>
             </div>
             <div className="accordionContent">
-              <span className="home-text111">
+              <span className="home-text103">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 Excepteur sint occaecat cupidatat non proident, sunt in culpa
@@ -776,7 +734,7 @@ closeButton.addEventListener("click", function() {
           </div>
           <div data-faq="closed" className="accordionContainer">
             <div className="home-header5">
-              <span className="home-text112">
+              <span className="home-text104">
                 — Is minim veniam quis nostrud exercitation ullamco laboris nisi
                 ut aliquip ex ea commodo consequat.
               </span>
@@ -785,7 +743,7 @@ closeButton.addEventListener("click", function() {
               </svg>
             </div>
             <div className="accordionContent">
-              <span className="home-text113">
+              <span className="home-text105">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 Excepteur sint occaecat cupidatat non proident, sunt in culpa
@@ -859,7 +817,7 @@ Here's what the above is doing:
       <footer className="home-footer">
         <div className="home-top">
           <div className="home-left4">
-            <span className="home-text114">Subscribe to our newsletter</span>
+            <span className="home-text106">Subscribe to our newsletter</span>
             <div className="home-subscription">
               <input
                 type="email"
@@ -867,15 +825,15 @@ Here's what the above is doing:
                 className="home-textinput input"
               />
               <div className="home-subscribe">
-                <span className="home-text115">Subscribe</span>
+                <span className="home-text107">Subscribe</span>
               </div>
             </div>
-            <span className="home-text116">
+            <span className="home-text108">
               By subscribing to our newsletter you agree with our Terms and
               Conditions.
             </span>
             <div className="home-contact">
-              <span className="home-text117">Contact</span>
+              <span className="home-text109">Contact</span>
               <a
                 href="mailto:use@active-app.com?subject=Support"
                 className="home-link"
@@ -884,36 +842,36 @@ Here's what the above is doing:
               </a>
             </div>
           </div>
-          <div className="home-right3">
-            <div className="home-category5">
-              <span className="home-text118">Solutions</span>
+          <div className="home-right2">
+            <div className="home-category3">
+              <span className="home-text110">Solutions</span>
               <div className="home-links2">
-                <span className="home-text119">Responsive Web Design</span>
-                <span className="home-text120">Responsive Prototypesv</span>
-                <span className="home-text121">Design to Code</span>
-                <span className="home-text122">Static Website Builder</span>
-                <span className="home-text123">Static Website Generator</span>
+                <span className="home-text111">Responsive Web Design</span>
+                <span className="home-text112">Responsive Prototypesv</span>
+                <span className="home-text113">Design to Code</span>
+                <span className="home-text114">Static Website Builder</span>
+                <span className="home-text115">Static Website Generator</span>
               </div>
             </div>
-            <div className="home-category6">
-              <span className="home-text124">Company</span>
+            <div className="home-category4">
+              <span className="home-text116">Company</span>
               <div className="home-links3">
-                <span className="home-text125">About</span>
-                <span className="home-text126">Team</span>
-                <span className="home-text127">News</span>
-                <span className="home-text128">Partners</span>
-                <span className="home-text129">Careers</span>
-                <span className="home-text130">Press &amp; Media</span>
+                <span className="home-text117">About</span>
+                <span className="home-text118">Team</span>
+                <span className="home-text119">News</span>
+                <span className="home-text120">Partners</span>
+                <span className="home-text121">Careers</span>
+                <span className="home-text122">Press &amp; Media</span>
               </div>
             </div>
-            <div className="home-category7">
-              <span className="home-text131">Solutions</span>
+            <div className="home-category5">
+              <span className="home-text123">Solutions</span>
               <div className="home-links4">
-                <span className="home-text132">Twitter</span>
-                <span className="home-text133">Linkedin</span>
-                <span className="home-text134">Crunchbase</span>
-                <span className="home-text135">Instagram</span>
-                <span className="home-text136">Facebook</span>
+                <span className="home-text124">Twitter</span>
+                <span className="home-text125">Linkedin</span>
+                <span className="home-text126">Crunchbase</span>
+                <span className="home-text127">Instagram</span>
+                <span className="home-text128">Facebook</span>
               </div>
             </div>
           </div>
@@ -924,7 +882,7 @@ Here's what the above is doing:
             src="/playground_assets/pastedimage-no9b-1500h.png"
             className="home-branding"
           />
-          <span className="home-text137">Copyright © Active - 2022</span>
+          <span className="home-text129">Copyright © Active - 2022</span>
         </div>
       </footer>
     </div>
