@@ -370,7 +370,7 @@
   line-height: 80px;
 }
 .accueil-text1 {
-  color: rgb(238, 233, 254);
+  color: var(--dl-color-gray-white);
   font-size: 20px;
   max-width: 600px;
   margin-top: 16px;
@@ -527,7 +527,6 @@
     height: 620px;
     position: relative;
     padding-bottom: 180px;
-    background-color: #101728;
   }
   .accueil-header {
     height: 100%;
@@ -593,9 +592,6 @@
 @media(max-width: 479px) {
   .accueil-hero {
     padding-bottom: 160px;
-  }
-  .accueil-text1 {
-    color: var(--dl-color-gray-white);
   }
   .accueil-get-started {
     width: 100%;
