@@ -105,10 +105,6 @@
   margin-left: 33px;
   flex-direction: row;
 }
-.menu-text1 {
-  margin-right: var(--dl-space-space-twounits);
-  text-decoration: none;
-}
 .menu-navlink05 {
   margin-right: var(--dl-space-space-twounits);
   text-decoration: none;
@@ -126,6 +122,10 @@
   text-decoration: none;
 }
 .menu-navlink09 {
+  margin-right: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.menu-navlink10 {
   margin-right: var(--dl-space-space-twounits);
   text-decoration: none;
 }
