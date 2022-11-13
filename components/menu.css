@@ -164,6 +164,10 @@
   .menu-left {
     margin-left: var(--dl-space-space-halfunit);
   }
+  .menu-image {
+    width: 91px;
+    height: 52px;
+  }
   .menu-links1 {
     display: none;
   }
@@ -183,6 +187,10 @@
   .menu-left {
     margin-left: var(--dl-space-space-unit);
   }
+  .menu-image {
+    width: 84px;
+    height: 48px;
+  }
   .menu-right {
     margin-right: var(--dl-space-space-unit);
   }
@@ -194,5 +202,9 @@
   .menu-icon {
     align-items: center;
     justify-content: center;
+  }
+  .menu-image {
+    width: 77px;
+    height: 44px;
   }
 }
